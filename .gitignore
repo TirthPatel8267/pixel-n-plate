@@ -1,0 +1,24 @@
+# Node modules
+node_modules/
+client/node_modules/
+server/node_modules/
+
+# Build outputs
+client/dist/
+client/.vite/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Environment
+.env
+.env.local
+.env.production
+
+# OS generated
+.DS_Store
+Thumbs.db
+
+# Vite cache
+.vite/

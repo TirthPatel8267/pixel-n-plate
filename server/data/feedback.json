@@ -1,0 +1,35 @@
+[
+  {
+    "id": "FB-101",
+    "customerName": "Marcus Vance",
+    "avatar": "👾",
+    "rating": 5,
+    "category": "Food & Gaming Rig",
+    "comment": "The Cyber Smash Burger was insane! Plus, playing Cyberpunk on 240Hz monitors while eating loaded fries is the ultimate vibe.",
+    "date": "2026-07-27",
+    "likes": 14,
+    "verifiedGamer": true
+  },
+  {
+    "id": "FB-102",
+    "customerName": "Elena Rostova",
+    "avatar": "🕹️",
+    "rating": 5,
+    "category": "VR Experience",
+    "comment": "Booked the VR Holodeck for my birthday party. Staff were super helpful and the Quantum Blue Mana shake is 10/10!",
+    "date": "2026-07-26",
+    "likes": 9,
+    "verifiedGamer": true
+  },
+  {
+    "id": "FB-103",
+    "customerName": "Leo Kai",
+    "avatar": "🏎️",
+    "rating": 4,
+    "category": "Ambience",
+    "comment": "Great sound system and neon lighting setup. Pizza Inferno was spicy and hot. Will definitely come back for LAN weekend!",
+    "date": "2026-07-25",
+    "likes": 6,
+    "verifiedGamer": true
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "id": "ORD-7821",
+    "customerName": "Alex Mercer",
+    "boothNumber": "Booth #04 (VR Arena)",
+    "items": [
+      {
+        "id": "m5",
+        "name": "Esports Power-Up Mega Combo Box",
+        "price": 799,
+        "quantity": 1
+      },
+      {
+        "id": "m8",
+        "name": "Quantum Blue Mana Shake",
+        "price": 179,
+        "quantity": 1
+      }
+    ],
+    "subtotal": 978,
+    "discount": 97.8,
+    "total": 880.2,
+    "status": "Preparing",
+    "createdAt": "2026-07-27T18:00:00Z",
+    "estimatedMins": 10
+  },
+  {
+    "id": "ORD-7820",
+    "customerName": "Sarah Connor",
+    "boothNumber": "Table #12",
+    "items": [
+      {
+        "id": "m1",
+        "name": "Cyber Smash Angus Burger",
+        "price": 349,
+        "quantity": 2
+      },
+      {
+        "id": "m6",
+        "name": "Neon Peri Peri Waffle Fries",
+        "price": 199,
+        "quantity": 1
+      }
+    ],
+    "subtotal": 897,
+    "discount": 0,
+    "total": 897,
+    "status": "Delivered",
+    "createdAt": "2026-07-27T17:35:00Z",
+    "estimatedMins": 0
+  }
+]

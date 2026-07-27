@@ -1,0 +1,11 @@
+{
+  "name": "pixel-n-plate-root",
+  "version": "1.0.0",
+  "description": "Pixel n Plate - Full Stack Restaurant & Game Zone Management Platform",
+  "scripts": {
+    "install:all": "cd server && npm install && cd ../client && npm install",
+    "start:server": "cd server && npm start",
+    "start:client": "cd client && npm run dev",
+    "build:client": "cd client && npm run build"
+  }
+}
